@@ -3,5 +3,5 @@ web:
   ports:
     - '80:80'
   volumes:
-    - '.:/app/www'
+    - /Users/lazabogdan/docker/adminplus-boilerplate-laravel:/app/www
   privileged: true
