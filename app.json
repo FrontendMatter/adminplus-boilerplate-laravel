@@ -1,5 +1,4 @@
 {
   "name": "AdminPlus Laravel Boilerplate",
-  "description": "Deploy a Laravel app using AdminPlus Lite Bootstrap Theme to heroku",
-  "image": "lazabogdan/laravel:latest"
+  "description": "Deploy a Laravel app using AdminPlus Lite Bootstrap Theme to heroku"
 }
