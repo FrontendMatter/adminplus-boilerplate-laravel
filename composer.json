@@ -1,7 +1,8 @@
 {
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
+        "laravel/framework": "5.2.*",
+        "heroku/heroku-buildpack-php": "^97.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
