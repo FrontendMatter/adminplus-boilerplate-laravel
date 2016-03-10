@@ -43,10 +43,6 @@
         ]
     },
     "config": {
-        "preferred-install": "dist",
-        "platform": {
-            "hhvm": "3.3",
-            "php": "5.5.9"
-        }
+        "preferred-install": "dist"
     }
 }
