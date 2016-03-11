@@ -1,7 +1,7 @@
 {
   "name": "adminplus-boilerplate-laravel",
   "description": "Laravel app boilerplate using AdminPlus Lite Bootstrap Theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "directories": {
     "test": "tests"
   },
@@ -12,9 +12,9 @@
   "license": "ISC",
   "private": true,
   "dependencies": {
-    "adminplus": "1.0.0-alpha.9",
+    "adminplus": "1.0.0-alpha.10",
     "bootstrap": "4.0.0-alpha.2",
-    "bootstrap-layout": "1.0.0-alpha.3",
+    "bootstrap-layout": "1.0.0-alpha.4",
     "jquery": "^2.2.0",
     "sass-md-colors": "^1.0.0",
     "tether": "^1.2.0"

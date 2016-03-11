@@ -31,7 +31,7 @@
 	<!-- // END Navbar -->
 
 	<!-- Sidebar -->
-	<div class="sidebar sidebar-left sidebar-visible-md-up si-si-3 sidebar-dark bg-primary" id="sidebar">
+	<div class="sidebar sidebar-left sidebar-visible-md-up si-si-3 sidebar-dark bg-primary" id="sidebar" data-scrollable>
 
 		<!-- Brand -->
 		<a href="{{ url('/') }}" class="sidebar-brand">Brand</a>
