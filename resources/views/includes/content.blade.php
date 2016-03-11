@@ -4,7 +4,6 @@
 
 <div class="card">
     <div class="card-block">
-        This is a demo for the <a target="_blank" href="https://github.com/themekit/adminplus-boilerplate-laravel">adminplus-boilerplate-laravel</a> repository. <br>
-        Read the full guide <a target="_blank" href="http://adminplus.themekit.io/laravel-bootstrap-theme">Build a Laravel app with AdminPlus Lite Bootstrap Theme</a>.
+        This is a demo for the <a target="_blank" href="https://github.com/themekit/adminplus-boilerplate-laravel">adminplus-boilerplate-laravel</a> repository, a simple Laravel app boilerplate using <a href="https://github.com/themekit/adminplus">AdminPlus Lite Bootstrap Theme</a>.
     </div>
 </div>
