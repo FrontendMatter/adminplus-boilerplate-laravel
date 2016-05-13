@@ -12,5 +12,8 @@
 <!-- Roboto Web Font -->
 <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
 
+<!-- Simplebar.js CSS -->
+<link type="text/css" href="{{ asset('vendor/simplebar.css') }}" rel="stylesheet">
+
 <!-- App CSS (includes Bootstrap) -->
 <link type="text/css" href="{{ asset('css/app.css') }}" rel="stylesheet">

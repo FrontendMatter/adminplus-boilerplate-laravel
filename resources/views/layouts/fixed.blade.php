@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="bootstrap-layout">
+<html>
 <head>
 	
 	@include('includes/head')

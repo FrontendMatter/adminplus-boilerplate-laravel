@@ -1,8 +1,10 @@
 /vendor
 /node_modules
 /public/storage
+/public/css
+/public/js
+/public/vendor
 Homestead.yaml
 Homestead.json
-.env
 supervisord.log
 *.pid

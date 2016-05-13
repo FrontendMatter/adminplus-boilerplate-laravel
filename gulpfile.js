@@ -13,5 +13,6 @@ var elixir = require('laravel-elixir');
 
 elixir(function(mix) {
     mix.sass('app.scss', null, { importer: require('sass-importer-npm') });
+    mix.copy('node_modules/simplebar/dist/simplebar.css', 'public/vendor/simplebar.css');
     mix.browserify('main.js');
 });

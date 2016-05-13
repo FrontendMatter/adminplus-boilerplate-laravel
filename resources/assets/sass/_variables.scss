@@ -4,5 +4,11 @@
 // Customize any variables here, before loading the default variables
 $brand-primary: $red-400;
 
-// Default style
-@import 'adminplus/src/sass/variables';
+// AdminPlus Lite
+@import 'adminplus/sass/variables';
+
+// Bootstrap Layout
+@import 'bootstrap-layout/src/sass/variables';
+
+// Bootstrap Layout Scrollable
+@import 'bootstrap-layout-scrollable/src/sass/variables';

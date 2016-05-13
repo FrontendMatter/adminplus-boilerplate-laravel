@@ -1,5 +1,11 @@
-// Variables (default and custom)
+// Variables
 @import './variables';
 
-// Default AdminPlus Lite style (including Bootstrap)
-@import 'adminplus/src/sass/style';
+// AdminPlus Lite
+@import 'adminplus/sass/style';
+
+// Bootstrap Layout
+@import 'bootstrap-layout/src/sass/style';
+
+// Bootstrap Layout Scrollable
+@import 'bootstrap-layout-scrollable/src/sass/style';

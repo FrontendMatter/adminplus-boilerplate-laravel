@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html class="bootstrap-layout">
+<html>
 <head>
 	
 	@include('includes/head')
 
 </head>
-<body class="layout-container ls-top-navbar si-l3-md-up">
+<body class="layout-container ls-top-navbar layout-sidebar-l3-md-up">
 
 	<!-- Navbar -->
 	<nav class="navbar navbar-light bg-white navbar-full navbar-fixed-top ls-left-sidebar">
@@ -17,7 +17,7 @@
 		<button class="navbar-toggler pull-xs-left" type="button" data-toggle="sidebar" data-target="#sidebar"><span class="material-icons">menu</span></button>
 
 		<!-- Brand -->
-		<span class="navbar-brand">Sidebar layout</span>
+		<span class="navbar-brand">Brand</span>
 
 		<!-- Collapse -->
 		<div class="collapse navbar-toggleable-xs" id="navbar">
@@ -31,10 +31,10 @@
 	<!-- // END Navbar -->
 
 	<!-- Sidebar -->
-	<div class="sidebar sidebar-left sidebar-visible-md-up si-si-3 sidebar-dark bg-primary" id="sidebar" data-scrollable>
+	<div class="sidebar sidebar-left sidebar-visible-md-up sidebar-size-3 sidebar-dark bg-primary" id="sidebar" data-scrollable>
 
 		<!-- Brand -->
-		<a href="{{ url('/') }}" class="sidebar-brand">Brand</a>
+		<a href="{{ url('/') }}" class="sidebar-brand sidebar-brand-bg sidebar-brand-border m-b-0">Brand</a>
 
 		<!-- Menu -->
 		<ul class="sidebar-menu sm-active-button-bg">
