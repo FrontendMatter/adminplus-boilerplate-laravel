@@ -53,9 +53,11 @@ gulp
 │   ├── css
 │   │   ├── app.css
 │   │   └── app.css.map
-│   └── js
-│       ├── main.js
-│       └── main.js.map
+│   ├── js
+│   │   ├── main.js
+│   │   └── main.js.map
+│   └── vendor
+│       └── simplebar.css
 └── resources
     ├── assets
     │   ├── js
